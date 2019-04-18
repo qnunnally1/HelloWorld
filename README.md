@@ -22,3 +22,8 @@ To test the contract enter, in the terminal
 ```
 $ truffle test ./test/hello_eth_salon.js
 ```
+
+You should get passing results that look similar to that below
+```
+✓ should return a correct string
+```
